@@ -8,17 +8,16 @@
     "start": "node provisionComposer.js"
   },
   "dependencies": {
-    "@azure/arm-appinsights": "^4.0.0",
-    "@azure/arm-botservice": "^4.0.0",
-    "@azure/arm-resources": "^2.1.0",
+    "@azure/arm-appinsights": "^5.0.0",
+    "@azure/arm-botservice": "^4.1.0",
+    "@azure/arm-resources": "^5.0.0",
     "@azure/graph": "^5.0.1",
     "@azure/ms-rest-nodeauth": "^3.1.1",
-    "@types/fs-extra": "^8.1.0",
-    "axios": "^1.13.5",
-    "chalk": "^4.0.0",
-    "fs-extra": "^8.1.0",
+    "@types/fs-extra": "^11.0.0",
+    "axios": "^1.6.0",
+    "chalk": "^5.0.0",
+    "fs-extra": "^11.0.0",
     "minimist": "^1.2.8",
-    "ora": "^4.0.4",
-    "request-promise": "^4.2.5"
+    "ora": "^7.0.0"
   }
 }
